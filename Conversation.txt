@@ -1,0 +1,174 @@
+﻿Intent (標題):
+Trigger (用家對話):
+Respond (系統回應):
+
+
+Intent:股票建議,stock suggestion,股票建议
+Trigger:我想買股票/應該買什麼股票/有什麼股票建議/我想买股票/应该买什麽股票/有什麽股票建议/I want to buy stock/ Any suggestion on stock?/
+Respond: 多謝您的問題,請問您想買什麼產業的股票?/多谢您的问题,请问您想买什麽产业的股票?/Thank you for using Investostasis, which type of stock would you interested in?
+
+
+Intent:產業,行業,電子,产业,行业,电子,industry,electric
+Trigger:我想購買有關電子產業的股票/ 我想購買有關電子行業的股票/ 我想購買有關電子業的股票/ I would like to choose the stocks related to electric products/ 我想购买有关电子产业的股票/ 我想购买有关电子行业的股票/ 我想购买有关电子业的股票
+Respond: 您是指電子商貿及互聯網服務或電子設備或電子元器件或電子消費品?/ Do you mean E-Commerce & Internet Services, Electronic Component, Electric equipment, Consumer Electronics?/ 您是指电子商贸及互联网服务或电子设备或电子元器件或电子消费品?
+
+
+Intent:電子商貿及互聯網服務,电子商贸及互联网服务,E-Commerce & Internet Services,
+Trigger:我指的是電子商貿及互聯網服務,我指的是电子商贸及互联网服务,I mean E-Commerce & Internet Services
+Respond:以收入作指標,以下是我推介的公司:騰訊控股,科通芯城,網龍,百富環球
+
+
+Intent: 騰訊,騰訊控股,700,Tencent,TENCENT,tencent,腾讯,腾讯控股
+Trigger:騰訊/騰訊控股/我想選擇騰訊/我想選擇騰訊控股/我想選擇700/ 700/ Tencent/ TENCENT/ tencent/ I would like to choose Tencent/ I would like to choose TENCENT/ I would like to choose tencent/腾讯/腾讯控股/我想选择腾讯/我想选择腾讯控股/我想选择700
+Respond: 您想要正股還是衍生工具?/ Would you like to have ls stock or the derivatives?/ 您想要正股还是衍生工具?
+
+
+Intent:衍生工具
+Trigger:衍生工具
+Respond:您選擇窩輪還是牛熊證?
+
+
+Intent:窩輪
+Trigger:窩輪
+Respond:Call or put?
+
+
+Intent:Call
+Trigger:Call
+Respond:以下為五大活躍相關認購證:騰XXXXXXX
+
+
+Intent:
+Trigger:13570
+Respond: Quick quote(all basic information)
+
+
+Intent:
+Trigger:Any analysis?
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+Intent:
+Trigger:
+Respond:
+
+
+
+
+
+
+Intent:
+Trigger:
+Respond:
